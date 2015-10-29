@@ -1,2 +1,6 @@
-*.*~
+# The actual bandwidth report
 bandwidth_report.csv
+
+# Backup files
+*.*~
+.*.swp
